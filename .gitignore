@@ -27,3 +27,14 @@ datasets/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignore image and output folders
+images/
+outputs/
+outputs_v3_1/
+outputs_v3_2/
+outputs_v3_3a/
+outputs_v3_3b/
+
+# Ignore preview image
+preview.jpg
