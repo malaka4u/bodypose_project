@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+bodypose_env/
+*.egg-info/
+
+# Data (don’t push full datasets)
+data/
+data_full/
+datasets/
+*.csv
+*.zip
+*.h5
+*.pth
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
