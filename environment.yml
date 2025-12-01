@@ -1,0 +1,7 @@
+name: bodypose_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+prefix: C:\Users\malak\miniconda3\envs\bodypose_env

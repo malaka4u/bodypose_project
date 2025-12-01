@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
+.venv/
+bodypose_env/
+*.egg-info/
+
+# Data (don’t push full datasets)
+data/
+data_full/
+datasets/
+*.csv
+*.zip
+*.h5
+*.pth
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignore image and output folders
+images/
+outputs/
+outputs_v3_1/
+outputs_v3_2/
+outputs_v3_3a/
+outputs_v3_3b/
+
+# Preview / big scripts
+preview.jpg
+miniconda.sh
